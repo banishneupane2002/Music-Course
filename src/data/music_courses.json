@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://png.pngtree.com/thumb_back/fh260/background/20250518/pngtree-acoustic-guitar-laying-in-lush-green-grass-capturing-outdoor-peaceful-natural-image_17310847.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Master the fundamentals of piano playing, from reading music to playing your first songs.",
+      "price": 89.99,
+      "instructor": "Emily Smith",
+      "isFeatured": true,
+      "image": "https://media.istockphoto.com/id/1366833276/photo/digital-piano-keyboard-in-dark-blueish-color.jpg?s=612x612&w=0&k=20&c=i8wAGkMR87l_ahbWKPqb2i9Egv2fAYfr_ZdgRba_9Bc="
+    },
+    {
+      "id": 3,
+      "title": "Drum-Lessons",
+      "slug": "drum-lessons",
+      "description": "Learn the basics of playing drums with our comprehensive beginner's course.",
+      "price": 79.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/029/502/390/small/dynamic-3d-rendered-drum-kit-red-backlit-sets-pro-stage-ambiance-ai-generated-photo.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Violin Mastery",
+      "slug": "violin-mastery",
+      "description": "Master the art of playing the violin with our comprehensive course for all skill levels.",
+      "price": 149.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_GDzgQVxwIK36Fu2cBjNJOPw-yK5jv65JhxeGQZXRmRM4McKyChnizQx&s=10"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "slug": "introduction-to-python",
+      "description": "Learn Python programming from the ground up with practical examples and projects.",
+      "price": 119.99,
+      "instructor": "David Wilson",
+      "isFeatured": false,
+      "image": "/courses/python.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Creative Writing",
+      "slug": "creative-writing",
+      "description": "Develop your writing skills and learn techniques for creating engaging stories and characters.",
+      "price": 69.99,
+      "instructor": "Jessica Taylor",
+      "isFeatured": false,
+      "image": "/courses/creative-writing.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Singing Techniques",
+      "slug": "singing-techniques",
+      "description": "Learn the fundamentals of singing, including breath control, pitch accuracy, and stage presence.",
+      "price": 99.99,
+      "instructor": "Ravi Patel",
+      "isFeatured": true,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoWke6S0C7eXgrWVRoXRoP4dUFR0hfPqVu73up7qBV0iUpjtVJul1LMxs&s=10"
+    },
+    {
+      "id": 8,
+      "title": "UI/UX Design Fundamentals",
+      "slug": "ui-ux-design-fundamentals",
+      "description": "Learn the principles of user interface and user experience design and create beautiful digital products.",
+      "price": 109.99,
+      "instructor": "Laura Martinez",
+      "isFeatured": false,
+      "image": "/courses/ui-ux.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Drawing and Sketching",
+      "slug": "drawing-and-sketching",
+      "description": "Improve your drawing skills through practical lessons covering shapes, shading, perspective, and composition.",
+      "price": 59.99,
+      "instructor": "Daniel Clark",
+      "isFeatured": false,
+      "image": "/courses/drawing.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Video Editing Essentials",
+      "slug": "video-editing-essentials",
+      "description": "Learn professional video editing techniques including cutting, transitions, audio, and color correction.",
+      "price": 94.99,
+      "instructor": "Sophia Lewis",
+      "isFeatured": false,
+      "image": "/courses/video-editing.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Public Speaking",
+      "slug": "public-speaking",
+      "description": "Build confidence and learn how to deliver clear, engaging, and persuasive presentations.",
+      "price": 74.99,
+      "instructor": "James Walker",
+      "isFeatured": false,
+      "image": "/courses/public-speaking.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Excel for Professionals",
+      "slug": "excel-for-professionals",
+      "description": "Master Excel formulas, spreadsheets, charts, pivot tables, and productivity techniques.",
+      "price": 84.99,
+      "instructor": "Olivia Hall",
+      "isFeatured": false,
+      "image": "/courses/excel.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Graphic Design with Photoshop",
+      "slug": "graphic-design-with-photoshop",
+      "description": "Learn essential graphic design principles and create professional designs using Photoshop.",
+      "price": 114.99,
+      "instructor": "William Allen",
+      "isFeatured": false,
+      "image": "/courses/photoshop.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Learn Spanish",
+      "slug": "learn-spanish",
+      "description": "Develop practical Spanish communication skills through vocabulary, grammar, listening, and conversation.",
+      "price": 64.99,
+      "instructor": "Maria Garcia",
+      "isFeatured": false,
+      "image": "/courses/spanish.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Entrepreneurship Basics",
+      "slug": "entrepreneurship-basics",
+      "description": "Learn how to develop business ideas, understand customers, create business plans, and launch a startup.",
+      "price": 124.99,
+      "instructor": "Christopher Young",
+      "isFeatured": false,
+      "image": "/courses/entrepreneurship.jpg"
+    }
+  ]
+}
