@@ -56,7 +56,7 @@ export default function FeaturedCourses() {
   ]}
 /> 
 
-          <p className="mt-3 text-gray-600 dark:text-gray-400">
+          <p className="mt-3 text-gray-600 relative dark:text-gray-400">
             Learn with the Best
           </p>
         </div>
@@ -120,7 +120,8 @@ export default function FeaturedCourses() {
                 </div>
 
                 <Link
-                  href={`/courses/${course.slug}`}
+                  // href={`/courses/${course.slug}`}
+                   href={'/courses'}
                   className="block w-full rounded-lg bg-black px-4 py-3 text-center text-white hover:bg-gray-800 hover:text-white dark:bg-white dark:text-black"
                 >
                   View Course
